@@ -1,0 +1,38 @@
+[
+  {
+    "title": "医学卷轴",
+    "file": "./assets/images/medical-scroll.jpg",
+    "palette": "warm",
+    "source": "https://www.muhn.edu.cn/zjhy1/xyfg.htm"
+  },
+  {
+    "title": "我爱海医",
+    "file": "./assets/images/heart-plaza.jpg",
+    "palette": "warm",
+    "source": "https://www.muhn.edu.cn/zjhy1/xyfg.htm"
+  },
+  {
+    "title": "医学宝鼎与校门水景",
+    "file": "./assets/images/globe-water.jpg",
+    "palette": "cool",
+    "source": "https://www.muhn.edu.cn/zjhy1/xyfg.htm"
+  },
+  {
+    "title": "热带树荫与教学楼",
+    "file": "./assets/images/teaching-building.jpg",
+    "palette": "warm",
+    "source": "https://www.muhn.edu.cn/zjhy1/xyfg.htm"
+  },
+  {
+    "title": "人工湖与树影",
+    "file": "./assets/images/lake-bridge.jpg",
+    "palette": "cool",
+    "source": "https://www.muhn.edu.cn/zjhy1/xyfg.htm"
+  },
+  {
+    "title": "校园旗帜",
+    "file": "./assets/images/campus-banners.jpg",
+    "palette": "warm",
+    "source": "https://www.muhn.edu.cn/zjhy1/xyfg.htm"
+  }
+]

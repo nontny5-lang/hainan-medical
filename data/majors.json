@@ -1,0 +1,357 @@
+[
+  {
+    "id": "clinical-medicine",
+    "name": "临床医学",
+    "college": "第一临床学院 / 临床学院",
+    "score": 98,
+    "tags": [
+      "ESI",
+      "博士点",
+      "国家一流",
+      "认证"
+    ],
+    "sources": [
+      "https://www.muhn.edu.cn/zsw/info/1097/9594.htm"
+    ]
+  },
+  {
+    "id": "pharmacy",
+    "name": "药学",
+    "college": "药学院",
+    "score": 94,
+    "tags": [
+      "ESI",
+      "博士点",
+      "国家一流"
+    ],
+    "sources": [
+      "https://www.muhn.edu.cn/__local/5/70/F5/FB1496CF931D93DDA62E2DA997D_99BD7001_11046.pdf"
+    ]
+  },
+  {
+    "id": "preventive-medicine",
+    "name": "预防医学",
+    "college": "公共卫生学院",
+    "score": 90,
+    "tags": [
+      "公共卫生",
+      "一流专业"
+    ],
+    "sources": [
+      "https://www.muhn.edu.cn/zsw/bkzs/zsxy.htm"
+    ]
+  },
+  {
+    "id": "nursing",
+    "name": "护理学",
+    "college": "国际护理学院",
+    "score": 88,
+    "tags": [
+      "国家一流",
+      "专业认证"
+    ],
+    "sources": [
+      "https://www.muhn.edu.cn/zsw/bkzs/zsxy.htm"
+    ]
+  },
+  {
+    "id": "medical-laboratory",
+    "name": "医学检验技术",
+    "college": "热带医学院 / 检验医学院",
+    "score": 86,
+    "tags": [
+      "热带医学",
+      "技术类"
+    ],
+    "sources": [
+      "https://www.muhn.edu.cn/zsw/bkzs/zsxy.htm"
+    ]
+  },
+  {
+    "id": "stomatology",
+    "name": "口腔医学",
+    "college": "口腔医学院",
+    "score": 85,
+    "tags": [
+      "口腔",
+      "临床类"
+    ],
+    "sources": [
+      "https://www.muhn.edu.cn/zsw/bkzs/zsxy.htm"
+    ]
+  },
+  {
+    "id": "chinese-medicine",
+    "name": "中医学",
+    "college": "中医学院",
+    "score": 84,
+    "tags": [
+      "中医药",
+      "临床类"
+    ],
+    "sources": [
+      "https://www.muhn.edu.cn/zsw/bkzs/zsxy.htm"
+    ]
+  },
+  {
+    "id": "anesthesiology",
+    "name": "麻醉学",
+    "college": "临床学院",
+    "score": 83,
+    "tags": [
+      "临床类",
+      "五年制"
+    ],
+    "sources": [
+      "https://www.muhn.edu.cn/__local/5/70/F5/FB1496CF931D93DDA62E2DA997D_99BD7001_11046.pdf"
+    ]
+  },
+  {
+    "id": "pediatrics",
+    "name": "儿科学",
+    "college": "儿科学院",
+    "score": 82,
+    "tags": [
+      "临床类",
+      "五年制"
+    ],
+    "sources": [
+      "https://www.muhn.edu.cn/zsw/bkzs/zsxy.htm"
+    ]
+  },
+  {
+    "id": "medical-imaging",
+    "name": "医学影像学",
+    "college": "临床学院",
+    "score": 81,
+    "tags": [
+      "临床类",
+      "五年制"
+    ],
+    "sources": [
+      "https://www.muhn.edu.cn/zsw/bkzs/zsxy.htm"
+    ]
+  },
+  {
+    "id": "clinical-pharmacy",
+    "name": "临床药学",
+    "college": "药学院",
+    "score": 80,
+    "tags": [
+      "药学类",
+      "五年制"
+    ],
+    "sources": [
+      "https://www.dxsbb.com/news/33436.html?from=groupmessage"
+    ]
+  },
+  {
+    "id": "biotechnology",
+    "name": "生物技术",
+    "college": "基础医学与生命科学学院",
+    "score": 79,
+    "tags": [
+      "生命科学",
+      "理学"
+    ],
+    "sources": [
+      "https://www.muhn.edu.cn/zsw/bkzs/zsxy.htm"
+    ]
+  },
+  {
+    "id": "biomedical-info",
+    "name": "医学信息工程",
+    "college": "生物医学信息与工程学院",
+    "score": 78,
+    "tags": [
+      "医工交叉",
+      "信息"
+    ],
+    "sources": [
+      "https://www.muhn.edu.cn/zsw/bkzs/zsxy.htm"
+    ]
+  },
+  {
+    "id": "rehabilitation",
+    "name": "康复治疗学",
+    "college": "临床学院",
+    "score": 77,
+    "tags": [
+      "技术类",
+      "康复"
+    ],
+    "sources": [
+      "https://www.muhn.edu.cn/zsw/bkzs/zsxy.htm"
+    ]
+  },
+  {
+    "id": "tcm-integrated",
+    "name": "中西医临床医学",
+    "college": "中医学院",
+    "score": 76,
+    "tags": [
+      "中西医",
+      "五年制"
+    ],
+    "sources": [
+      "https://www.muhn.edu.cn/__local/5/70/F5/FB1496CF931D93DDA62E2DA997D_99BD7001_11046.pdf"
+    ]
+  },
+  {
+    "id": "marine-pharmacy",
+    "name": "海洋药学",
+    "college": "药学院",
+    "score": 75,
+    "tags": [
+      "自贸港",
+      "海洋药物"
+    ],
+    "sources": [
+      "https://www.gk100.com/read_547685135.htm"
+    ]
+  },
+  {
+    "id": "traditional-pharmacy",
+    "name": "中药学",
+    "college": "药学院 / 中医学院",
+    "score": 74,
+    "tags": [
+      "中医药",
+      "药学类"
+    ],
+    "sources": [
+      "https://www.muhn.edu.cn/zsw/bkzs/zsxy.htm"
+    ]
+  },
+  {
+    "id": "health-inspection",
+    "name": "卫生检验与检疫",
+    "college": "公共卫生学院",
+    "score": 73,
+    "tags": [
+      "公卫",
+      "检验"
+    ],
+    "sources": [
+      "https://www.muhn.edu.cn/zsw/bkzs/zsxy.htm"
+    ]
+  },
+  {
+    "id": "imaging-technology",
+    "name": "医学影像技术",
+    "college": "临床学院",
+    "score": 72,
+    "tags": [
+      "技术类",
+      "影像"
+    ],
+    "sources": [
+      "https://www.muhn.edu.cn/zsw/bkzs/zsxy.htm"
+    ]
+  },
+  {
+    "id": "bioinformatics",
+    "name": "生物信息学",
+    "college": "生物医学信息与工程学院",
+    "score": 71,
+    "tags": [
+      "数据",
+      "生命科学"
+    ],
+    "sources": [
+      "https://www.muhn.edu.cn/zsw/bkzs/zsxy.htm"
+    ]
+  },
+  {
+    "id": "health-management",
+    "name": "健康服务与管理",
+    "college": "管理学院",
+    "score": 69,
+    "tags": [
+      "管理",
+      "健康产业"
+    ],
+    "sources": [
+      "https://www.muhn.edu.cn/zsw/bkzs/zsxy.htm"
+    ]
+  },
+  {
+    "id": "public-management",
+    "name": "公共事业管理",
+    "college": "管理学院",
+    "score": 68,
+    "tags": [
+      "管理",
+      "医疗保障"
+    ],
+    "sources": [
+      "https://www.muhn.edu.cn/zsw/bkzs/zsxy.htm"
+    ]
+  },
+  {
+    "id": "midwifery",
+    "name": "助产学",
+    "college": "国际护理学院",
+    "score": 67,
+    "tags": [
+      "护理类",
+      "妇幼健康"
+    ],
+    "sources": [
+      "https://www.muhn.edu.cn/zsw/bkzs/zsxy.htm"
+    ]
+  },
+  {
+    "id": "psychiatry",
+    "name": "精神医学",
+    "college": "临床学院",
+    "score": 66,
+    "tags": [
+      "临床类",
+      "五年制"
+    ],
+    "sources": [
+      "https://www.muhn.edu.cn/zsw/bkzs/zsxy.htm"
+    ]
+  },
+  {
+    "id": "acupuncture",
+    "name": "针灸推拿学",
+    "college": "中医学院",
+    "score": 65,
+    "tags": [
+      "中医",
+      "五年制"
+    ],
+    "sources": [
+      "https://www.muhn.edu.cn/zsw/bkzs/zsxy.htm"
+    ]
+  },
+  {
+    "id": "optometry-medicine",
+    "name": "眼视光医学",
+    "college": "临床学院",
+    "score": 64,
+    "tags": [
+      "临床类",
+      "五年制"
+    ],
+    "sources": [
+      "https://quark.sm.cn/s?q=%E6%B5%B7%E5%8D%97%E5%8C%BB%E7%A7%91%E5%A4%A7%E5%AD%A6%20%E9%AB%98%E8%80%83",
+      "https://www.muhn.edu.cn/__local/0/EE/9E/C21333280426CEC6CC4B42A2EDE_56CB2D1A_153764.pdf"
+    ]
+  },
+  {
+    "id": "biostatistics",
+    "name": "生物统计学",
+    "college": "公共卫生学院",
+    "score": 61,
+    "tags": [
+      "统计",
+      "公卫数据"
+    ],
+    "sources": [
+      "https://www.muhn.edu.cn/__local/0/EE/9E/C21333280426CEC6CC4B42A2EDE_56CB2D1A_153764.pdf"
+    ]
+  }
+]
