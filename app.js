@@ -4,7 +4,8 @@ const DATA = {
     heroImage: "./assets/images/medical-scroll.jpg",
     intro:
       "海南医科大学坐落于海南省海口市，肇始于 1947 年，是海南自由贸易港重要的医学教育、科研和医疗服务力量。学校以热带医学、临床医学、药学、公共卫生和护理等学科为支撑，面向健康海南和自贸港建设培养应用型、复合型医学人才。",
-    qrLabel: "新生交流群二维码待补充"
+    qrLabel: "海南医科大学新生交流群",
+    qrImage: "./assets/images/qr/freshmen-group.jpg"
   },
   gallery: [
     { title: "医学卷轴", file: "./assets/images/medical-scroll.jpg", palette: "warm", source: "https://www.muhn.edu.cn/zjhy1/xyfg.htm" },
@@ -47820,6 +47821,16 @@ function render() {
   return renderHome();
 }
 
+function freshmenQrBox(variant = "") {
+  const className = variant ? ` qr-box--${variant}` : "";
+  return `
+    <div class="qr-box${className}" aria-label="${DATA.site.qrLabel}">
+      <img class="qr-image" src="${DATA.site.qrImage}" alt="${DATA.site.qrLabel}" loading="lazy" />
+      <span>${DATA.site.qrLabel}</span>
+    </div>
+  `;
+}
+
 function renderHome() {
   setActiveTab("home");
   const app = document.getElementById("app");
@@ -47851,11 +47862,9 @@ function renderHome() {
       <div class="freshmen-grid" data-reveal>
         <div>
           <h2>欢迎新同学</h2>
-          <p>从椰树和湖水之间出发，在教学楼的灯影与热带医学的故事里，找到你的新坐标。这里预留新生交流群入口，后续上传二维码即可替换。</p>
+          <p>从椰树和湖水之间出发，在教学楼的灯影与热带医学的故事里，找到你的新坐标。扫码进入新生交流群，获取迎新信息、校园生活与报考交流提醒。</p>
         </div>
-        <div class="qr-box" aria-label="新生交流群二维码占位">
-          <div><strong>新生交流群</strong><span>${DATA.site.qrLabel}</span></div>
-        </div>
+        ${freshmenQrBox()}
       </div>
     </section>
     <section id="campus-environment" class="section environment-section campus-environment" data-snap-chapter>
@@ -48184,9 +48193,7 @@ function renderMajor(id, province) {
           <ol class="source-list">
             ${uniqueSources(records.concat(major.sources.map((url) => ({ source: "专业设置/实力依据", sourceUrl: url })))).map((source) => `<li><a href="${source.url}" target="_blank" rel="noreferrer">${source.name}</a></li>`).join("") || "<li>暂无可核验来源</li>"}
           </ol>
-          <div class="qr-box" style="margin-top:20px;min-height:190px">
-            <div><strong>新生交流群</strong><span>${DATA.site.qrLabel}</span></div>
-          </div>
+          ${freshmenQrBox("compact")}
         </aside>
       </div>
     </section>
